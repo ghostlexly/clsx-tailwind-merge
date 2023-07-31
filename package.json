@@ -1,6 +1,6 @@
 {
   "name": "clsx-tailwind-merge",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A blend of the clsx library and tailwind-merge for working on tailwindcss projects.",
   "main": "dist/index.js",
   "files": [
