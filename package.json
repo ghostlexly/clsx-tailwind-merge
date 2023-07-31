@@ -1,0 +1,21 @@
+{
+  "name": "clsx-tailwind-merge",
+  "version": "1.0.0",
+  "description": "A blend of the clsx library and tailwind-merge for working on tailwindcss projects.",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "repository": "https://github.com/ghostlexly/clsx-tailwind-merge.git",
+  "author": "ghostlexly <ghostlexly@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc -d"
+  },
+  "dependencies": {
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^1.14.0",
+    "typescript": "^5.1.6"
+  }
+}
