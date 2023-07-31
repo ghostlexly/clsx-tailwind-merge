@@ -1,4 +1,4 @@
-# ✨ ghostlexly-auth ✨
+# ✨ clsx-tailwind-merge ✨
 
 A blend of the clsx library and tailwind-merge for working on tailwindcss projects.
 
@@ -7,7 +7,7 @@ A blend of the clsx library and tailwind-merge for working on tailwindcss projec
 `npm`
 
 ```
-yarn install clsx-tailwind-merge
+npm install clsx-tailwind-merge
 ```
 
 `yarn`
